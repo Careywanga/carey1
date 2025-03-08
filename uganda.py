@@ -1,3 +1,5 @@
 print("jambo uganda")
 
-print("heloo watu")
+print("hello watu")
+
+print("clone")
